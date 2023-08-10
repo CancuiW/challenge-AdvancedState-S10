@@ -30,7 +30,7 @@ export default function App() {
         <h1>Advanced State</h1>
         <nav>
           <NavLink id="wheelLink" to="/">Wheel</NavLink>
-          <NavLink id="quizLink" to="/quiz">Quiz</NavLink>
+          <NavLink id="quizLink" to="/quiz" >Quiz</NavLink>
           <NavLink id="formLink" to="/quiz-new">Form</NavLink>
         </nav>
         <Routes>
